@@ -1,0 +1,4 @@
+ # Alien Invasion - Alien Invasion
+ # Python >= 3.6
+ 
+ pygame>=2.0.0
